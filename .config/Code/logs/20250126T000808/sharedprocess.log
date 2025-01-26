@@ -1,0 +1,118 @@
+2025-01-26 00:09:09.614 [info] Getting Manifest... github.copilot
+2025-01-26 00:09:09.853 [info] Installing extension: github.copilot {"enable":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json","path":"/home/dhanumurti/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-26 00:09:11.543 [info] Getting Manifest... github.copilot-chat
+2025-01-26 00:09:11.857 [info] Installing extension: github.copilot-chat {"enable":true,"isMachineScoped":false,"installEverywhere":true,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json","path":"/home/dhanumurti/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"context":{"dependecyOrPackExtensionInstall":true}}
+2025-01-26 00:09:15.820 [info] Extension signature verification result for github.copilot-chat: UnknownError. Executed: true. Duration: 91ms.
+2025-01-26 00:09:17.419 [info] Extracted extension to file:///home/dhanumurti/.vscode/extensions/github.copilot-chat-0.23.2: github.copilot-chat
+2025-01-26 00:09:17.437 [info] Renamed to /home/dhanumurti/.vscode/extensions/github.copilot-chat-0.23.2
+2025-01-26 00:09:17.570 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-26 00:09:18.674 [info] Extension signature verification result for github.copilot: UnknownError. Executed: true. Duration: 75ms.
+2025-01-26 00:09:20.502 [info] Extracted extension to file:///home/dhanumurti/.vscode/extensions/github.copilot-1.259.0: github.copilot
+2025-01-26 00:09:20.539 [info] Renamed to /home/dhanumurti/.vscode/extensions/github.copilot-1.259.0
+2025-01-26 00:09:20.584 [info] Extension installed successfully: github.copilot-chat vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json
+2025-01-26 00:09:20.584 [info] Extension installed successfully: github.copilot vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json
+2025-01-26 00:09:20.638 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-26 00:16:01.957 [info] Getting Manifest... akamud.vscode-theme-onedark
+2025-01-26 00:16:02.189 [info] Installing extension: akamud.vscode-theme-onedark {"isMachineScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json","path":"/home/dhanumurti/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-26 00:16:03.326 [info] Extension signature verification result for akamud.vscode-theme-onedark: UnknownError. Executed: true. Duration: 89ms.
+2025-01-26 00:16:03.461 [info] Extracted extension to file:///home/dhanumurti/.vscode/extensions/akamud.vscode-theme-onedark-2.3.0: akamud.vscode-theme-onedark
+2025-01-26 00:16:03.484 [info] Renamed to /home/dhanumurti/.vscode/extensions/akamud.vscode-theme-onedark-2.3.0
+2025-01-26 00:16:03.537 [info] Extension installed successfully: akamud.vscode-theme-onedark vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json
+2025-01-26 00:16:03.661 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-26 00:18:45.934 [info] Getting Manifest... bmewburn.vscode-intelephense-client
+2025-01-26 00:18:46.214 [info] Installing extension: bmewburn.vscode-intelephense-client {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json","path":"/home/dhanumurti/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-26 00:18:48.796 [info] Extension signature verification result for bmewburn.vscode-intelephense-client: UnknownError. Executed: true. Duration: 64ms.
+2025-01-26 00:18:51.519 [info] Extracted extension to file:///home/dhanumurti/.vscode/extensions/bmewburn.vscode-intelephense-client-1.12.6: bmewburn.vscode-intelephense-client
+2025-01-26 00:18:51.646 [info] Renamed to /home/dhanumurti/.vscode/extensions/bmewburn.vscode-intelephense-client-1.12.6
+2025-01-26 00:18:51.804 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-26 00:18:51.825 [info] Extension installed successfully: bmewburn.vscode-intelephense-client vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json
+2025-01-26 00:18:59.463 [info] Getting Manifest... ecmel.vscode-html-css
+2025-01-26 00:18:59.604 [info] Installing extension: ecmel.vscode-html-css {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json","path":"/home/dhanumurti/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"}}
+2025-01-26 00:19:00.590 [info] Extension signature verification result for ecmel.vscode-html-css: UnknownError. Executed: true. Duration: 47ms.
+2025-01-26 00:19:00.707 [info] Extracted extension to file:///home/dhanumurti/.vscode/extensions/ecmel.vscode-html-css-2.0.13: ecmel.vscode-html-css
+2025-01-26 00:19:00.734 [info] Renamed to /home/dhanumurti/.vscode/extensions/ecmel.vscode-html-css-2.0.13
+2025-01-26 00:19:00.882 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-26 00:19:00.912 [info] Extension installed successfully: ecmel.vscode-html-css vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json
+2025-01-26 00:26:51.733 [info] Uninstalling extension from the profile: bmewburn.vscode-intelephense-client@1.12.6 vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json
+2025-01-26 00:26:51.933 [info] Marked extension as uninstalled bmewburn.vscode-intelephense-client-1.12.6
+2025-01-26 00:26:51.978 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-26 00:26:53.017 [info] Successfully uninstalled extension from the profile bmewburn.vscode-intelephense-client@1.12.6 vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json
+2025-01-26 00:29:16.856 [info] Getting Manifest... bmewburn.vscode-intelephense-client
+2025-01-26 00:29:17.605 [info] Installing extension: bmewburn.vscode-intelephense-client {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"operation":3,"isApplicationScoped":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json","path":"/home/dhanumurti/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true}
+2025-01-26 00:29:17.989 [info] Removed the extension from uninstalled list: bmewburn.vscode-intelephense-client
+2025-01-26 00:29:18.062 [info] Extension installed successfully: bmewburn.vscode-intelephense-client vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json
+2025-01-26 00:29:18.110 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-26 00:29:21.762 [info] Getting Manifest... xdebug.php-debug
+2025-01-26 00:29:21.972 [info] Installing extension: xdebug.php-debug {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"productVersion":{"version":"1.96.4","date":"2025-01-16T00:16:19.038Z"},"operation":3,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json","path":"/home/dhanumurti/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"installOnlyNewlyAddedFromExtensionPack":true,"isApplicationScoped":false}
+2025-01-26 00:29:23.523 [info] Extension signature verification result for xdebug.php-debug: UnknownError. Executed: true. Duration: 33ms.
+2025-01-26 00:29:27.574 [info] Extracted extension to file:///home/dhanumurti/.vscode/extensions/xdebug.php-debug-1.35.0: xdebug.php-debug
+2025-01-26 00:29:27.714 [info] Renamed to /home/dhanumurti/.vscode/extensions/xdebug.php-debug-1.35.0
+2025-01-26 00:29:27.921 [error] [uncaught exception in sharedProcess]: Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp': EntryNotFound (FileSystemError): Error: ENOENT: no such file or directory, stat '/home/dhanumurti/.vscode/extensions/extensions.json.vsctmp'
+    at Gm.create (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39624)
+    at xs (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:35:39731)
+    at Vr.ib (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:22778)
+    at Vr.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:78:16010)
+    at async wh.stat (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:85488)
+    at async fh.Ab (file:///opt/visual-studio-code/resources/app/out/vs/code/electron-utility/sharedProcess/sharedProcessMain.js:77:67180)
+2025-01-26 00:29:27.989 [info] Extension installed successfully: xdebug.php-debug vscode-userdata:/home/dhanumurti/.vscode/extensions/extensions.json
+2025-01-26 00:59:43.956 [error] [network] #196: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 01:04:44.000 [error] [network] #197: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 01:09:44.047 [error] [network] #198: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 01:14:44.091 [error] [network] #199: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 01:19:44.150 [error] [network] #200: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 01:24:44.212 [error] [network] #201: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 01:29:44.259 [error] [network] #202: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 01:34:44.301 [error] [network] #203: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 01:39:44.346 [error] [network] #204: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 01:44:44.389 [error] [network] #205: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 01:49:44.433 [error] [network] #206: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 01:54:44.477 [error] [network] #207: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 01:59:44.522 [error] [network] #208: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 02:04:44.565 [error] [network] #209: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 02:09:44.613 [error] [network] #210: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 02:14:44.665 [error] [network] #211: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 02:19:44.716 [error] [network] #212: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 02:24:44.764 [error] [network] #213: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED
+2025-01-26 02:29:44.855 [error] [network] #214: https://main.vscode-cdn.net/extensions/marketplace.json - error GET net::ERR_INTERNET_DISCONNECTED

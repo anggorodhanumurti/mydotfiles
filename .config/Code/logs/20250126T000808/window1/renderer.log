@@ -1,0 +1,162 @@
+2025-01-26 00:08:10.092 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-26 00:08:10.093 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-26 00:08:10.095 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-26 00:08:11.397 [info] Started local extension host with pid 18821.
+2025-01-26 00:08:13.827 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-26 00:08:15.302 [info] [perf] Render performance baseline is 199ms
+2025-01-26 00:08:20.353 [error] Timed out waiting for authentication provider to register
+2025-01-26 00:08:30.974 [error] No default agent contributed: CodeExpectedError: No default agent contributed
+    at $qe.R (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:1952:25105)
+2025-01-26 00:09:29.209 [error] No registered selector for ID: copilot-chat.fixWithCopilot
+2025-01-26 00:09:29.212 [error] No registered selector for ID: copilot-chat.generateCommitMessage
+2025-01-26 00:09:29.331 [error] No registered selector for ID: copilot-chat.terminalToDebugging
+2025-01-26 00:09:29.333 [error] No registered selector for ID: copilot-chat.terminalToDebuggingSuccess
+2025-01-26 00:11:59.269 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:11:59.821 [error] Method not found: toJSON: CodeExpectedError: Method not found: toJSON
+    at Object.call (file:///opt/visual-studio-code/resources/app/out/main.js:36:4634)
+    at uf.s (file:///opt/visual-studio-code/resources/app/out/main.js:34:19716)
+    at uf.q (file:///opt/visual-studio-code/resources/app/out/main.js:34:19239)
+    at zo.value (file:///opt/visual-studio-code/resources/app/out/main.js:34:18641)
+    at A.B (file:///opt/visual-studio-code/resources/app/out/main.js:33:746)
+    at A.C (file:///opt/visual-studio-code/resources/app/out/main.js:33:816)
+    at A.fire (file:///opt/visual-studio-code/resources/app/out/main.js:33:1033)
+    at zo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:4913)
+    at A.B (file:///opt/visual-studio-code/resources/app/out/main.js:33:746)
+    at A.fire (file:///opt/visual-studio-code/resources/app/out/main.js:33:964)
+    at zo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5101)
+    at A.B (file:///opt/visual-studio-code/resources/app/out/main.js:33:746)
+    at A.fire (file:///opt/visual-studio-code/resources/app/out/main.js:33:964)
+    at U (file:///opt/visual-studio-code/resources/app/out/main.js:28:7388)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:36:21224)
+    at IpcMainImpl.emit (node:events:518:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:85782)
+    at WebContents.emit (node:events:518:28)
+2025-01-26 00:12:17.399 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:13:07.494 [error] Unable to resolve nonexistent file 'vscode-userdata:/home/dhanumurti/.config/Code/User/globalStorage/github.copilot': Error: Unable to resolve nonexistent file 'vscode-userdata:/home/dhanumurti/.config/Code/User/globalStorage/github.copilot'
+    at _ot.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:60549)
+    at async BTt (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:480:44682)
+2025-01-26 00:13:10.128 [info] Started local extension host with pid 26857.
+2025-01-26 00:13:10.313 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:13:11.173 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:13:13.987 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:13:27.480 [error] Unable to resolve nonexistent file 'vscode-userdata:/home/dhanumurti/.config/Code/User/globalStorage/github.copilot': Error: Unable to resolve nonexistent file 'vscode-userdata:/home/dhanumurti/.config/Code/User/globalStorage/github.copilot'
+    at _ot.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:60549)
+    at async BTt (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:480:44682)
+2025-01-26 00:14:25.104 [error] Could not find category with ID GitHub.copilot-chat#copilotWelcome: Error: Could not find category with ID GitHub.copilot-chat#copilotWelcome
+    at vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2899:25848
+    at NodeList.forEach (<anonymous>)
+    at kF.oc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2899:25751)
+    at oee.value (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2899:25121)
+    at x.B (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:748)
+    at x.C (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:818)
+    at x.fire (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:30:1036)
+    at int.setEntries (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2899:7381)
+    at kF.nc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2899:25130)
+    at kF.kc (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:2899:20041)
+2025-01-26 00:15:20.027 [error] [network] #48: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2025-01-26 00:15:20.323 [error] [network] #49: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2025-01-26 00:15:20.738 [error] [network] #50: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2025-01-26 00:15:52.224 [error] [network] #75: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2025-01-26 00:15:53.083 [error] [network] #76: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2025-01-26 00:16:04.208 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:16:05.382 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 00:16:07.091 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:16:07.209 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 00:18:52.905 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:18:53.021 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 00:19:01.865 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:19:02.000 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 00:19:47.883 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:19:48.341 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 00:19:53.817 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:19:54.017 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 00:20:08.594 [error] Unable to resolve nonexistent file 'vscode-userdata:/home/dhanumurti/.config/Code/User/globalStorage/bmewburn.vscode-intelephense-client': Error: Unable to resolve nonexistent file 'vscode-userdata:/home/dhanumurti/.config/Code/User/globalStorage/bmewburn.vscode-intelephense-client'
+    at _ot.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:60549)
+    at async BTt (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:480:44682)
+2025-01-26 00:20:14.222 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:20:14.541 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 00:20:27.536 [error] Unable to resolve nonexistent file 'vscode-userdata:/home/dhanumurti/.config/Code/User/globalStorage/bmewburn.vscode-intelephense-client': Error: Unable to resolve nonexistent file 'vscode-userdata:/home/dhanumurti/.config/Code/User/globalStorage/bmewburn.vscode-intelephense-client'
+    at _ot.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:60549)
+    at async BTt (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:480:44682)
+2025-01-26 00:20:33.336 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:20:33.760 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 00:20:41.983 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:20:42.192 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 00:24:35.332 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-vscode.vscode-selfhost-test-provider' wants API proposal 'attributableCoverage' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-26 00:24:35.332 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.python' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-26 00:24:35.333 [warning] Via 'product.json#extensionEnabledApiProposals' extension 'ms-python.debugpy' wants API proposal 'contribIssueReporter' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+2025-01-26 00:24:36.047 [info] Started local extension host with pid 40162.
+2025-01-26 00:24:38.431 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2025-01-26 00:24:39.710 [info] [perf] Render performance baseline is 153ms
+2025-01-26 00:25:18.624 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:25:19.225 [error] Method not found: toJSON: CodeExpectedError: Method not found: toJSON
+    at Object.call (file:///opt/visual-studio-code/resources/app/out/main.js:36:4634)
+    at uf.s (file:///opt/visual-studio-code/resources/app/out/main.js:34:19716)
+    at uf.q (file:///opt/visual-studio-code/resources/app/out/main.js:34:19239)
+    at zo.value (file:///opt/visual-studio-code/resources/app/out/main.js:34:18641)
+    at A.B (file:///opt/visual-studio-code/resources/app/out/main.js:33:746)
+    at A.C (file:///opt/visual-studio-code/resources/app/out/main.js:33:816)
+    at A.fire (file:///opt/visual-studio-code/resources/app/out/main.js:33:1033)
+    at zo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:4913)
+    at A.B (file:///opt/visual-studio-code/resources/app/out/main.js:33:746)
+    at A.fire (file:///opt/visual-studio-code/resources/app/out/main.js:33:964)
+    at zo.value (file:///opt/visual-studio-code/resources/app/out/main.js:28:5101)
+    at A.B (file:///opt/visual-studio-code/resources/app/out/main.js:33:746)
+    at A.fire (file:///opt/visual-studio-code/resources/app/out/main.js:33:964)
+    at U (file:///opt/visual-studio-code/resources/app/out/main.js:28:7388)
+    at IpcMainImpl.i (file:///opt/visual-studio-code/resources/app/out/main.js:36:21224)
+    at IpcMainImpl.emit (node:events:518:28)
+    at WebContents.<anonymous> (node:electron/js2c/browser_init:2:85782)
+    at WebContents.emit (node:events:518:28)
+2025-01-26 00:29:27.226 [error] [network] #23: https://marketplace.visualstudio.com/_apis/public/gallery/extensionquery - error POST Canceled
+2025-01-26 00:29:28.771 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:29:30.097 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 00:29:34.970 [error] Unable to resolve nonexistent file 'vscode-userdata:/home/dhanumurti/.config/Code/User/globalStorage/vscode.php-language-features': Error: Unable to resolve nonexistent file 'vscode-userdata:/home/dhanumurti/.config/Code/User/globalStorage/vscode.php-language-features'
+    at _ot.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:60549)
+    at async BTt (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:480:44682)
+2025-01-26 00:29:39.585 [error] Unable to resolve nonexistent file 'vscode-userdata:/home/dhanumurti/.config/Code/User/globalStorage/vscode.php': Error: Unable to resolve nonexistent file 'vscode-userdata:/home/dhanumurti/.config/Code/User/globalStorage/vscode.php'
+    at _ot.resolve (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:3108:60549)
+    at async BTt (vscode-file://vscode-app/opt/visual-studio-code/resources/app/out/vs/workbench/workbench.desktop.main.js:480:44682)
+2025-01-26 00:30:25.336 [info] Started local extension host with pid 61754.
+2025-01-26 00:30:25.692 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:30:25.943 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 00:30:26.654 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:30:26.864 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 00:30:29.594 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:30:29.746 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 00:30:42.878 [warning] Settings pattern "issueReporter.*" doesn't match any settings
+2025-01-26 00:30:43.253 [warning] Settings pattern "GitHub.copilot.manageExtension" doesn't match any settings
+2025-01-26 01:09:43.016 [error] [network] #38: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 01:09:43.018 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 01:14:43.026 [error] [network] #39: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 01:14:43.125 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 01:19:43.139 [error] [network] #40: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 01:19:43.259 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 01:24:43.268 [error] [network] #41: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 01:24:43.366 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 01:29:43.374 [error] [network] #42: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 01:29:43.471 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 01:34:43.479 [error] [network] #43: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 01:34:43.577 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 01:39:43.587 [error] [network] #44: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 01:39:43.692 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 01:44:43.700 [error] [network] #45: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 01:44:43.798 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 01:49:43.807 [error] [network] #46: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 01:49:43.908 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 01:54:43.917 [error] [network] #47: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 01:54:44.014 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 01:59:44.024 [error] [network] #48: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 01:59:44.120 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 02:04:44.130 [error] [network] #49: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 02:04:44.251 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 02:09:44.260 [error] [network] #50: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 02:09:44.357 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 02:14:44.377 [error] [network] #51: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 02:14:44.475 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 02:19:44.492 [error] [network] #52: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 02:19:44.622 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 02:24:44.632 [error] [network] #53: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 02:24:44.734 [warning] Failed to fetch chat participant registry Offline
+2025-01-26 02:29:44.743 [error] [network] #54: https://main.vscode-cdn.net/extensions/chat.json - error GET Offline
+2025-01-26 02:29:44.841 [warning] Failed to fetch chat participant registry Offline

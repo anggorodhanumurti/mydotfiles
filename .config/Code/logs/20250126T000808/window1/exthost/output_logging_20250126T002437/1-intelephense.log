@@ -1,0 +1,8 @@
+[Info  - 12:24:58 AM] Initialising intelephense 1.12.6
+[Info  - 12:24:58 AM] Initialised in 22 ms
+[Info  - 12:24:59 AM] Searching file:///home/dhanumurti/.vscode/extensions/bmewburn.vscode-intelephense-client-1.12.6/node_modules/intelephense/lib/stub for files to index.
+[Info  - 12:24:59 AM] Searching file:///home/dhanumurti/cheatpanel for files to index.
+[Info  - 12:24:59 AM] Indexing started.
+[Info  - 12:25:02 AM] Indexing ended. 359 files indexed in 3s.
+[Info  - 12:25:02 AM] Writing state to /home/dhanumurti/.config/Code/User/workspaceStorage/78e246a3cd178146dd6716e570bf6cdb/bmewburn.vscode-intelephense-client/43a59543.
+[Info  - 12:25:03 AM] Wrote state in 0.3s.

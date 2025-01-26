@@ -1,0 +1,8 @@
+Interface=wlp4s0
+Autohide=true
+AutohideMissing=false
+SignalColors=true
+ShowIcon=false
+ShowBar=true
+Command=xfce4-terminal --execute nmtui
+
